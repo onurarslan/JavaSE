@@ -16,7 +16,9 @@ public class Chapter1_Identifiers_Tanimlamalar {
 		 * int #number3=3;
 		 * int .number4=4;
 		 * int +number5=5;
-		 * int -number6=6; 
+		 * int -number6=6;
+		 * int int=7;
+		 * int char=8; 
 		 */
 	}
 }
