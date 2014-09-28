@@ -77,6 +77,25 @@ public class Chapter07_Aritmetic_Aritmetik_Islemler {
 		double bilimsel=6.2E3;
 		System.out.println(bilimsel);
 		
+		int number1=10;
+		System.out.println("number1: "+number1);
+		number1++;
+		System.out.println("number1++: "+number1);
+		number1--;
+		System.out.println("number1--: "+number1);
+		
+		number1+=5;
+		System.out.println("number1+=5: "+number1);
+		
+		number1-=5;
+		System.out.println("number1-=5: "+number1);
+		
+		number1*=2;
+		System.out.println("number1*=2: "+number1);
+		
+		number1/=2;
+		System.out.println("number1/=2: "+number1);
+		
 
 	}
 
