@@ -1,6 +1,6 @@
 package OCJP;
 
-public class Chapter4_loops_donguler {
+public class Chapter04_loops_donguler {
 
 	public static void main(String[] args) {
 		//while döngüsü belirtilen şart sağlanana kadar blok içerisinde ki kodların çalıştırılmasını sağlar.

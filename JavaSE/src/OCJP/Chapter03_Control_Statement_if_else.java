@@ -1,6 +1,6 @@
 package OCJP;
 
-public class Chapter3_Control_Statement_if_else {
+public class Chapter03_Control_Statement_if_else {
 
 	public static void main(String[] args) {
 		//şartı bağlaı program yazarken if bloğuna girmemesi durumunda bir işlem yapılması isteniyorsa

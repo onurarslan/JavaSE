@@ -2,7 +2,7 @@ package OCJP;
 
 import java.util.Scanner;//Scanner sınıfı burada eklenmelidir
 
-public class Chapter5_input_value {
+public class Chapter05_input_value {
 
 	public static void main(String[] args) {
 		Scanner input=new Scanner(System.in);//System.in ifadesi ile klavyeden girilen değerli tutar

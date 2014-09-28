@@ -1,6 +1,6 @@
 package OCJP;
 
-public class Chapter2_Printing_Text_Ekrana_Yazdirma {
+public class Chapter02_Printing_Text_Ekrana_Yazdirma {
 
 	public static void main(String[] args) {
 		System.out.print("Onur ");//print() metodu ekrana yazdırdıktan sonra alt satıra geçmez

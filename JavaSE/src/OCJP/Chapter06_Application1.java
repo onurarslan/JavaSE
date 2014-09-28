@@ -2,7 +2,7 @@ package OCJP;
 
 import java.util.Scanner;
 
-public class Chapter6_Application1 {
+public class Chapter06_Application1 {
 
 	/**
 	 * @param args
