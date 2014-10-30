@@ -19,7 +19,7 @@ class Kup{//Kup adında sınıf oluşturulur
 public class Chapter13_Class_Sınıflar {
 
 	public static void main(String[] args) {
-		Kup kup1= new Kup();//Kup sınıfına ait nesne oluşturulur.
+		Kup kup1= new Kup();//Kup sınıfına ait nesne oluşturulur. new Kup() ifadesine parantez içerisinde ise yapıcı metot kullanılması durumunda parametreler yazılır.
 		double hacim;
 		
 		kup1.setDim(15, 20, 25);//küpün genişlik, yükseklik ve derinlik deişkenlerine setDim metotu aracılığı ile paraemetreler gönderilir.
