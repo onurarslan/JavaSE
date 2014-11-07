@@ -9,7 +9,11 @@ public class Chapter10_Type_Casting_Tip_Donusumu {
 		
 		int number2=1400;
 		byte cast2=(byte)number2;//int sayı aralığı byte tipinden büyük olduğu için byte dönüştürülürken sayı önüne (byte) yazılmalıdır.
-		System.out.println("number2: "+number2+" cast2: "+cast2);//byte aralığı yetersiz kaldığı için int dönüştürülürken mod işlemi uygulanır ve veri kaybı yaşandığı gözlemlenebilir 
+		System.out.println("number2: "+number2+" cast2: "+cast2);//byte aralığı yetersiz kaldığı için int dönüştürülürken mod işlemi uygulanır ve veri kaybı yaşandığı gözlemlenebilir
+		
+		String textNumber="41";
+		int intNumber=Integer.parseInt(textNumber);
+		System.out.println(intNumber);
 
 	}
 
